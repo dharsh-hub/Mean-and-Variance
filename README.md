@@ -73,6 +73,7 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 # Output : 
+
 ![exp 1 op pqm](https://github.com/user-attachments/assets/882debf8-993f-4f8b-8fc3-d0eae0798639)
 
 # Results :
